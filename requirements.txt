@@ -1,0 +1,5 @@
+python-dotenv
+vncdotool
+pydantic
+pymongo
+boto3
